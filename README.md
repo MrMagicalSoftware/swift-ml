@@ -20,3 +20,30 @@ Modelli di classificazione
 
 # Reinforcement Learning
 
+
+
+# CoreML
+
+1. Load a Pre-Trained Model
+2. Make Predictions
+
+https://developer.apple.com/machine-learning
+
+
+Classification or Regression.
+
+In CoreML, non è possibile fare Training.
+ho degli static model( pre-trained model ),
+No Encryption.
+
+
+
+
+
+
+
+
+
+
+
+

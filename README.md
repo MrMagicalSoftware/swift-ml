@@ -36,7 +36,8 @@ In CoreML, non è possibile fare Training.
 ho degli static model( pre-trained model ),
 No Encryption.
 
-
+Possibilità di Conversione da :
+Caffe , keras a ML-MODEL
 
 
 

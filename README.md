@@ -40,6 +40,32 @@ Possibilità di Conversione da :
 Caffe , keras a ML-MODEL
 
 
+Documentazione :
+https://developer.apple.com/machine-learning/models/
+
+
+Incorporate il file di training .mimodel
+
+
+
+class ViewController : UIViewController , UIImagePickerControllerDelegate, UINavigationControllerDelegate {
+
+
+  let imagePicker = UIImagePickerController()
+  
+  override func viewDidLoad(){
+    super.viewDidLoad()
+    
+    imagePicker.delegate = self
+    imagePicker.sourceType = .camera
+    imagePicker.allowsEdition = false
+  }
+  
+}
+
+Documentazione Su SwiftUI : Take photos in SwiftUI
+
+https://medium.com/swlh/how-to-open-the-camera-and-photo-library-in-swiftui-9693f9d4586b
 
 
 
